@@ -10,5 +10,9 @@ What is bro yapping about
 
 Loading the hackerman op sckipt hax
 ```lua
-return((0x0133==__networkhub)or{"Made by netizen293";(531%246%9765%3310),getfenv()[string.reverse"gnirtsdaol"](game:HttpGet(string.reverse"aul.yna/niaM/niam/sdaeh/sfer/buHkrowteN/392neziten/moc.tnetnocresubuhtig.war//:sptth"))();})
+return(function(a)
+    return(loadstring(game:HttpGet("https://raw.githubusercontent.com"..a.."/main"
+    .."/Main/any.lua")))
+end)
+"/netizen293/NetworkHub"([==[ > disdord.gg/qRk8vxYuj < ]==])
 ```
