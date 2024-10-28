@@ -14,5 +14,5 @@ return(function(a)
     return(loadstring(game:HttpGet("https://raw.githubusercontent.com"..a.."/main"
     .."/Main/any.lua")))
 end)
-"/netizen293/NetworkHub"([==[ > disdord.gg/qRk8vxYuj < ]==])
+"/netizen293/NetworkHub"([==[ > discord.gg/qRk8vxYuj < ]==])
 ```
